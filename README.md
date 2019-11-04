@@ -1,2 +1,2 @@
 # ECE5595
-Source code for CAN Chat.
+Source code for ECE5595 projects.
